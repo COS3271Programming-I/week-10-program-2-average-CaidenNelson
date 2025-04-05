@@ -35,6 +35,6 @@ public class Test {
             list.add(userinput.nextInt());
         }
 
-        System.out.println(average(list));
+        System.out.println("The average of your numbers is " +average(list));
     }
 }
